@@ -22,3 +22,8 @@ menu hapus dipilih
 <img width="439" height="423" alt="image" src="https://github.com/user-attachments/assets/1d7a17d2-f887-4b22-aedb-19cc918df5a8" />
 exit 
 <img width="366" height="236" alt="image" src="https://github.com/user-attachments/assets/6ed79aa3-3388-45e1-81e9-4ebd56e407de" />
+
+## penerapan posttest 2
+
+data disembunyikan dari luar class.
+Program lain tidak bisa langsung mengubah data.
