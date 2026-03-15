@@ -24,6 +24,16 @@ exit
 <img width="366" height="236" alt="image" src="https://github.com/user-attachments/assets/6ed79aa3-3388-45e1-81e9-4ebd56e407de" />
 
 ## penerapan posttest 2
-
+<img width="433" height="186" alt="Image" src="https://github.com/user-attachments/assets/c3246d70-53a4-4674-b9c8-e9261a883784" />
 data disembunyikan dari luar class.
 Program lain tidak bisa langsung mengubah data.
+
+pengunaaan setter getter
+<img width="349" height="211" alt="Image" src="https://github.com/user-attachments/assets/9355720f-dbdb-4054-b22d-45538abc4e34" />
+<img width="507" height="180" alt="Image" src="https://github.com/user-attachments/assets/c64db75a-6679-4954-83e3-597a97632202" />
+
+Access modifier yang digunakan:
+- private
+- public
+- protected
+- default
